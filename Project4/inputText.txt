@@ -1,0 +1,16 @@
+FILE_A
+#include <iostream>
+#include <FILE_B>
+#include <FILE_C>
+FILE_B
+#include <iostream>
+#include <fstream>
+#include <FILE_C>
+FILE_C
+#include <iostream>
+FILE_D
+#include <cstdlib>
+FILE_E
+#include <goat>
+#include <iostream>
+#include <FILE_A>
